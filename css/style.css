@@ -127,7 +127,7 @@ ul {
     color: #fff;
 }
 
-.linkedin-bg {
+.instagram-bg {
     background: #0177b5;
     color: #fff;
 }
@@ -147,7 +147,7 @@ ul {
     color: #fff;
 }
 
-.linkedin-bg:hover {
+.instagram-bg:hover {
     background: #1c82ca;
     color: #fff;
 }
@@ -1177,16 +1177,16 @@ input[type=checkbox]:checked + label:before {
     width: 0;
 }
 
-.banner-bg {
-    background: url("../img/banner-1.png");
-}
+/*.banner-bg {*/
+/*    background: url("../img/banner-1.png");*/
+/*}*/
 
-.item-bg {
-    /*background: url("../img/banner-1.png");*/
-    height: 100vh;
-    /*animation: bgburnsEast 25s linear infinite alternate;
-    -webkit-animation: bgburnsEast 25s linear infinite alternate;*/
-}
+/*.item-bg {*/
+/*    !*background: url("../img/banner-1.png");*!*/
+/*    height: 100vh;*/
+/*    !*animation: bgburnsEast 25s linear infinite alternate;*/
+/*    -webkit-animation: bgburnsEast 25s linear infinite alternate;*!*/
+/*}*/
 
 .banner img {
     /* animation: bgburnsEast 25s linear infinite alternate; */
@@ -1278,7 +1278,7 @@ input[type=checkbox]:checked + label:before {
     width: 100%;
     height: 100%;
     bottom: 0;
-    background-color: rgba(36, 42, 53, 0.40);
+    /*background-color: rgba(36, 42, 53, 0.40);*/
 }
 
 .banner .banner-slider-inner .btn {
@@ -4158,7 +4158,7 @@ input[type=checkbox]:checked + label:before {
     background: #dc4e41 !important;
 }
 
-.team-1 .linkedin-bg:hover {
+.team-1 .instagram-bg:hover {
     background: #0177b5 !important;
 }
 
@@ -5319,7 +5319,7 @@ input[type=checkbox]:checked + label:before {
     background: #e78733 !important;
 }
 
-.footer-1 .linkedin-bg:hover {
+.footer-1 .instagram-bg:hover {
     background: #1c82ca !important;
 }
 
@@ -8646,7 +8646,7 @@ blockquote {
 
 .faq-info .nav-tabs .nav-link {
     display: block;
-    padding: 12px 20px 12px;
+    padding: 13px 20px 12px;
     border-radius: 0;
     background: #fff;
     color: #343434;
@@ -9575,11 +9575,11 @@ blockquote {
     background: #db4437;
 }
 
-.login-section .linkedin-bg {
+.login-section .instagram-bg {
     color: #2392e0;
 }
 
-.login-section .linkedin-bg:hover {
+.login-section .instagram-bg:hover {
     background: #1c82ca;
 }
 
@@ -11646,10 +11646,6 @@ blockquote {
     background-color: #303030;
 }
 
-#tab_about_achievements .img-about {
-    height: 37vh;
-}
-
 #tab_about_achievements .bg-about {
     background-image: url(../img/banner/bg-clients.jpg);
     background-position: center;
@@ -11667,4 +11663,18 @@ blockquote {
 .search-options-btn-area2 #tab_about_achievements ul {
     list-style: unset;
     list-style-type: circle;
+}
+
+.nav-button-tab {
+    line-height: 44px;
+}
+
+.whatsap_fx {
+    float: right;
+    position: fixed;
+    z-index: 9999;
+    margin-top: -80px;
+    margin-right: 10px;
+    bottom: 80px;
+    right: 0;
 }
