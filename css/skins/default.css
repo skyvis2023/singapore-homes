@@ -1038,7 +1038,7 @@ li.active.btn.filtr-button.filtr {
 }
 
 #main-header-6{
-    background: #f40c43;
+    background: #323746;
 }
 
 #main-header-1 .btn-5:before {
@@ -1057,11 +1057,11 @@ li.active.btn.filtr-button.filtr {
 /** Media **/
 @media (min-width: 180px){
     .main-header-5.header-shrink {
-        background: #f40c43!important;
+        background: #323746!important;
     }
 
     .main-header-5.header-shrink .header-inner {
-        background: #f40c43!important;
+        background: #323746!important;
     }
 }
 
