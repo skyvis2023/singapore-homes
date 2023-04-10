@@ -1103,6 +1103,9 @@ li.active.btn.filtr-button.filtr {
     #main-header-6 {
         background: #323746!important;
     }
+    .about-text {
+        margin-top: 40px;
+    }
 }
 
 @media (max-width: 768px) {
