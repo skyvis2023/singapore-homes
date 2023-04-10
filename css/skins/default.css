@@ -114,7 +114,7 @@
 }
 
 #page_scroller {
-    background: #f40c43;
+    background: #0ec6d5;
 }
 
 .checkbox-theme input[type="checkbox"]:checked + label::before {
@@ -1101,7 +1101,7 @@ li.active.btn.filtr-button.filtr {
     }
 
     #main-header-6 {
-        background: #f40c43!important;
+        background: #323746!important;
     }
 }
 
