@@ -6302,7 +6302,7 @@ input[type=checkbox]:checked + label:before {
 
 .popular-places-box .popular-places-photo img {
     border-radius: 3px;
-    height: 280px;
+    height: 450px;
     width: 100%;
 }
 
@@ -10802,6 +10802,9 @@ blockquote {
 }
 
 @media (max-width: 768px) {
+    .popular-places-box .popular-places-photo img {
+        height: auto;
+    }
     .notification-box {
         padding: 20px;
     }
