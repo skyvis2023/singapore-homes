@@ -11610,7 +11610,7 @@ blockquote {
 
 #awards img.image-awards {
     width: 100% !important;
-    height: 300px !important;
+    /*height: 300px !important;*/
     object-fit: cover;
 }
 
